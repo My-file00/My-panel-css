@@ -305,7 +305,7 @@ body.darkmode.userauth .dropdown-menu li a {
 }
 body.darkmode.userauth .profilecardacc {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 2px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -315,7 +315,7 @@ body.darkmode.userauth p.usernameprof {
 }
 body.darkmode.userauth .dropdown.profiledd ul.dropdown-menu{
   color: #fff;
-  border-radius: 12px;
+  border-radius: 2px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
