@@ -214,7 +214,7 @@ body.darkmode.userauth .divstattwo i {
   font-weight: 600;
   color: #fff !important;
 }
-body.darkmode.userauth .dropdown.statdd > button {
+body.darkmode.userauth .dropdown2.statdd > button {
   background: #39393d;
   color: #fff;
 }
@@ -296,10 +296,10 @@ body.darkmode.userauth .modal-content {
 body.darkmode.userauth .modal-header {
   border-color: #ffffff20;
 }
-body.darkmode.userauth .dropdown-menu {
+body.darkmode.userauth .dropdown2-menu {
   background: #292929;
 }
-body.darkmode.userauth .dropdown-menu li a {
+body.darkmode.userauth .dropdown2-menu li a {
   color: #fff;
   border: 1px solid #ffffff10;
 }
@@ -313,7 +313,7 @@ body.darkmode.userauth .profilecardacc {
 body.darkmode.userauth p.usernameprof {
   color: #fff;
 }
-body.darkmode.userauth .dropdown.profiledd ul.dropdown-menu{
+body.darkmode.userauth .dropdown2.profiledd ul.dropdown2-menu{
   color: #fff;
   border-radius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
@@ -1007,14 +1007,14 @@ form.ordformforsrc button.input-wrapper__prepend span {
   color: #fff;
   font-weight: 400;
 }
-.select2-container--open .select2-dropdown--below {
+.select2-container--open .select2-dropdown2--below {
   margin-top: 10px !important;
   border-radius: 20px !important;
   overflow: hidden;
   background: #ffffff;
   padding: 0;
 }
-.select2-container--open .select2-dropdown--below ul li a {
+.select2-container--open .select2-dropdown2--below ul li a {
   border-bottom: 1px solid #00000010;
   padding: 10px;
 }
@@ -1196,7 +1196,7 @@ div.gridcol2 {
   color: #000;
   margin-top: 10px;
 }
-.dropdown.statdd button {
+.dropdown2.statdd button {
   background: #ffffff;
   border: 0;
   border-bottom: 1px solid #00000020;
@@ -1206,17 +1206,17 @@ div.gridcol2 {
   margin-left: auto;
   display: block;
 }
-.dropdown.statdd > button {
+.dropdown2.statdd > button {
   border: 1px solid #00000020;
   border-radius: 10px;
 }
-.dropdown.statdd ul.dropdown-menu li button {
+.dropdown2.statdd ul.dropdown2-menu li button {
   width: 100%;
 }
-.dropdown.statdd ul.dropdown-menu li:last-child button{
+.dropdown2.statdd ul.dropdown2-menu li:last-child button{
   border: 0;
 }
-.dropdown.statdd.open ul.dropdown-menu {
+.dropdown2.statdd.open ul.dropdown2-menu {
   padding: 0;
   border-radius: 10px;
   display: flex;
@@ -1230,7 +1230,7 @@ div.gridcol2 {
   overflow: hidden;
   font-size: 13px;
 }
-.dropdown.statdd ul.dropdown-menu li {
+.dropdown2.statdd ul.dropdown2-menu li {
   width: 100%;
 }
 
@@ -1307,7 +1307,7 @@ small.help-block.min-max {
   gap: 5px;
   flex-wrap: nowrap;
 }
-.search-dropdown .input-wrapper .form-control::placeholder {
+.search-dropdown2 .input-wrapper .form-control::placeholder {
   color: #fff;
   font-weight: 400;
 }
@@ -1755,14 +1755,14 @@ ul.nav.nav-pills.catfiltrserv li, ul.nav.nav-pills.catfiltrserv li div, ul.nav.n
 ul.nav.nav-pills.catfiltrserv li button {
   border: 1px solid #fff;
 }
-ul.nav.nav-pills.catfiltrserv ul.dropdown-menu li a {
+ul.nav.nav-pills.catfiltrserv ul.dropdown2-menu li a {
   color: #fff;
   padding: 10px;
   display: block;
   border-radius: 10px;
   transition: all 0.5s ease;
 }
-ul.nav.nav-pills.catfiltrserv ul.dropdown-menu {
+ul.nav.nav-pills.catfiltrserv ul.dropdown2-menu {
   max-height: 300px;
   overflow: auto;
   width: 100%;
@@ -1771,7 +1771,7 @@ ul.nav.nav-pills.catfiltrserv ul.dropdown-menu {
   border-radius: 10px;
   border: 1px solid #ffffff20;
 }
-ul.nav.nav-pills.catfiltrserv ul.dropdown-menu li a.active{
+ul.nav.nav-pills.catfiltrserv ul.dropdown2-menu li a.active{
   background-color: #2fa4e7;
 }
 
@@ -2582,12 +2582,12 @@ body.userauth span.checkmark {
     display: inline-flex;
     float: right;
   }
-  .dropdown.profiledd {
+  .dropdown2.profiledd {
     display: inline-flex;
     float: right;
     /*margin-right: 10px;*/
   }
-  .dropdown.profiledd a.dropdown-toggle.threeddarkblue img {
+  .dropdown2.profiledd a.dropdown2-toggle.threeddarkblue img {
     max-width: 47px;
   }
   footer{
@@ -2651,7 +2651,7 @@ a.cnclrsn {
   background-size: 100% 100%;
   box-shadow: 0px 1.18245px 2.3649px 0px #091a39, 0px 0px 0px 1.18245px #233b6a, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
 }
-.search-dropdown .input-wrapper .form-control::placeholder {
+.search-dropdown2 .input-wrapper .form-control::placeholder {
   color: #595959;
   font-weight: 500;
 }
@@ -2675,7 +2675,7 @@ a.questbtn.subquest {
   display: flex;
 }
 
-.dropdown.profiledd {
+.dropdown2.profiledd {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -2685,20 +2685,20 @@ img.profilePicture {
   max-width: 100px;
   border-radius: 40px;
 }
-.dropdown.profiledd img.profilePicture {
+.dropdown2.profiledd img.profilePicture {
   max-width: 45px;
 }
-.dropdown.profiledd a.dropdown-toggle.threeddarkblue {
+.dropdown2.profiledd a.dropdown2-toggle.threeddarkblue {
   border-radius: 30px;
 }
 
-.dropdown.profiledd ul.dropdown-menu li a {
+.dropdown2.profiledd ul.dropdown2-menu li a {
   padding: 5px 10px;
   border-radius: 8px;
   margin: 2px 0;
   transition: all 0.5s ease;
 }
-.dropdown.profiledd ul.dropdown-menu {
+.dropdown2.profiledd ul.dropdown2-menu {
   right: 0;
   left: auto;
   top: 55px;
@@ -2858,13 +2858,13 @@ p.footerp {
   justify-content: space-between;
   margin-bottom: 10px;
 }
-.dropdown.statdd > button {
+.dropdown2.statdd > button {
   padding: 0;
   border: 0;
   color: #2fa4e7;
 }
 
-.bootstrap-datetimepicker-widget.dropdown-menu {
+.bootstrap-datetimepicker-widget.dropdown2-menu {
   width: fit-content !important;
 }
 
@@ -2907,10 +2907,10 @@ ul.servFiltr.servFilterservpage {
   justify-content: space-between;
   align-content: center;
 }
-ul.nav.nav-pills.catfiltrserv ul.dropdown-menu li {
+ul.nav.nav-pills.catfiltrserv ul.dropdown2-menu li {
   overflow: hidden;
 }
-ul.nav.nav-pills.catfiltrserv ul.dropdown-menu {
+ul.nav.nav-pills.catfiltrserv ul.dropdown2-menu {
   right: 0;
   left: auto;
   min-width: 300px;
@@ -3348,11 +3348,11 @@ span.expandicator {
   width: 20px;
 }
 
-.dropdown-menu > .active > a .badge, .dropdown-menu > .active > a:hover .badge, .dropdown-menu > .active > a:focus .badge {
+.dropdown2-menu > .active > a .badge, .dropdown2-menu > .active > a:hover .badge, .dropdown2-menu > .active > a:focus .badge {
   background: #fff;
   color: #2780e3;
 }
-.select2-container--open .select2-dropdown--below ul li a {
+.select2-container--open .select2-dropdown2--below ul li a {
   font-size: 14px;
 }
 ul.curndropdown-menu li a span {
@@ -3895,7 +3895,7 @@ button.btn.btn-nxt {
 .fundcontent.modal-content, .fundcontent.modal-content .modal-body {
   overflow: visible;
 }
-.dropdown.funddd ul.dropdown-menu li a span {
+.dropdown2.funddd ul.dropdown2-menu li a span {
   background: #2fa4e7;
   display: flex;
   min-width: 50px;
@@ -3905,7 +3905,7 @@ button.btn.btn-nxt {
   color: #fff;
   margin-right: -8px;
 }
-.dropdown.funddd ul.dropdown-menu li a {
+.dropdown2.funddd ul.dropdown2-menu li a {
   background: #00000010;
   margin: 6px 10px;
   border-radius: 30px;
@@ -3914,14 +3914,14 @@ button.btn.btn-nxt {
   justify-content: space-between;
   padding: 2px 10px;
 }
-.dropdown.funddd ul.dropdown-menu {
+.dropdown2.funddd ul.dropdown2-menu {
   width: 100%;
   margin-top: 10px;
   max-height: 300px;
   border-radius: 10px;
   overflow: auto;
 }
-.dropdown.funddd ul.dropdown-menu li a:hover {
+.dropdown2.funddd ul.dropdown2-menu li a:hover {
   color: #000;
 }
 
@@ -4759,7 +4759,7 @@ span.bdghdr {
   display: inline-flex !important;
   margin-left: 0;
 }
-a.dropdown-toggle.threeddarkblue {
+a.dropdown2-toggle.threeddarkblue {
   margin-right: 0;
   margin-left: auto;
 }
