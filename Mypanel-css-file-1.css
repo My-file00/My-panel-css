@@ -76,7 +76,7 @@ body.darkmode.userauth footer {
 }
 body.darkmode.userauth .payment-group button {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -126,7 +126,7 @@ body.darkmode.userauth .wellhdr .headrwell i {
 }
 body.darkmode.userauth .chat-container, body.darkmode.userauth .notechatdet {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -139,7 +139,7 @@ body.userauth.darkmode .whatsapp-chat-box {
 }
 body.darkmode.userauth .chatdetstat {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -157,7 +157,7 @@ body.darkmode.userauth {
 body.darkmode.userauth .headernavbottom.headersignin {
   padding-bottom: 80px;
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -167,27 +167,27 @@ body.darkmode.userauth .statcard {
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   background-size: 100% 100%;
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 600;
   color: #fff !important;
 }
 body.darkmode.userauth ul.nav.nav-pills {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
 }
 body.darkmode.userauth .well {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
 }
 body.darkmode.userauth .sidebar {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -197,7 +197,7 @@ body.darkmode.userauth .sidebar:after{
 }
 body.darkmode.userauth .divstattwo {
   color: #ffffff90;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -210,7 +210,7 @@ body.darkmode.userauth .divstattwo i {
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   background-size: 100% 100%;
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 600;
   color: #fff !important;
 }
@@ -226,7 +226,7 @@ body.darkmode.userauth .table > tbody > tr.active > td {
 }
 body.darkmode.userauth .panel.panel-default {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -249,7 +249,7 @@ body.darkmode.userauth .note p {
 }
 body.userauth.darkmode ul.nsul {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -263,7 +263,7 @@ body.userauth.darkmode ul.ullistns li {
 }
 body.darkmode.userauth .cardfcp {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -288,7 +288,7 @@ body.userauth.darkmode .backchildsmh h3.pricechildpanel {
 }
 body.darkmode.userauth .modal-content {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -305,7 +305,7 @@ body.darkmode.userauth .dropdown-menu li a {
 }
 body.darkmode.userauth .profilecardacc {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -315,7 +315,7 @@ body.darkmode.userauth p.usernameprof {
 }
 body.darkmode.userauth .dropdown.profiledd ul.dropdown-menu{
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -325,14 +325,14 @@ body.darkmode.userauth .form-msord small {
 }
 body.darkmode.userauth .stepcardmo{
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
 }
 body.darkmode.userauth .page-header-lgin {
   color: #fff;
-  border-radius: 4px;
+  border-adius: 12px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -390,7 +390,7 @@ body {
 
 ::-webkit-scrollbar-thumb {
   background: #00000050; /* Lighter color for the thumb */
-  border-radius: 4px; /* Slightly round the corners */
+  border-adius: 4px; /* Slightly round the corners */
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -400,7 +400,7 @@ body {
   margin-top: 110px;
 }
 .well {
-  border-radius: 10px;
+  border-adius: 10px;
   background: #fff;
   border: 0;
   width: 100%;
@@ -409,7 +409,7 @@ body {
 }
 .form-control {
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid #00000010;
   box-shadow: none;
   background: #efefef;
@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
   color: #fff;
   border: 2px solid #fff;
   box-shadow: #033c7350 0px 20px 30px;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 12px 30px;
   border: 2px solid #ffffff10 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #1e467e 0%, #0e1f3910 100%), #162b51 !important;
@@ -442,7 +442,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
   color: #ffffff;
   border: 2px solid #ffffff;
   box-shadow: #64add360 0px 20px 30px;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 12px 30px;
   background: #64add3;
   border: 2px solid #ffffff20 !important;
@@ -457,7 +457,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
   border-right: 1px solid #ffffff20;
 }
 .alert {
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 18px;
   overflow: hidden;
 }
@@ -478,7 +478,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 nav.usernav {
 margin: 10px;
 padding: 12px;
-border-radius: 25px;
+border-adius: 25px;
 border: 1px solid #ffffff20;
 background: url(https://i.imgur.com/YFq0PMR.png);
 background-size: cover;
@@ -489,7 +489,7 @@ color: #224374;
 }
 nav.usernav.navbar-default .navbar-nav > .active > a, nav.usernav.navbar-default .navbar-nav > .active > a:hover, nav.usernav.navbar-default .navbar-nav > .active > a:focus {
 background: #224374;
-border-radius: 20px;
+border-adius: 20px;
 }*/
 
 /* Guest Nav */
@@ -497,7 +497,7 @@ nav.guestnav {
   padding: 15px;
   background: #f4f9ff;
   margin: 10px auto;
-  border-radius: 20px;
+  border-adius: 20px;
   border: 1px solid #00000020;
   border-bottom: 1px solid #00000020;
   box-shadow: 2px 2px 80px -25px #00000050;
@@ -507,7 +507,7 @@ nav.guestnav {
   color: #61bae4;
   padding: 10px 20px;
   margin: 5px 0;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 2px solid transparent;
   transition: all 0.5s ease;
 }
@@ -556,7 +556,7 @@ span.subtop {
   background: #61bae4;
   padding: 5px;
   color: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   padding-right: 15px;
   border: 2px solid #fff;
   margin-bottom: -10px;
@@ -564,7 +564,7 @@ span.subtop {
 }
 span.subtop b {
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   display: inline-flex;
   height: 20px;
   width: 20px;
@@ -589,7 +589,7 @@ span.subtop b {
 /* Login FOrm */
 .loginbox {
   background: #f4f9ff;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid #e5e7eb;
   padding: 20px;
   box-shadow: 2px 2px 80px -25px #00000050;
@@ -678,7 +678,7 @@ span.subtop b {
 .loginbox-child input {
   height: 55px;
   border: 0;
-  border-radius: 10px;
+  border-adius: 10px;
   background: #dedfe1;
   box-shadow: none;
 }
@@ -690,7 +690,7 @@ span.subtop b {
 .loginbox-child button.btn.btn-primary {
   width: 100%;
   height: 55px;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 0;
   box-shadow: none;
 }
@@ -719,7 +719,7 @@ span.subtop b {
   color: #fff;
   background: #61bae4;
   padding: 2px 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-bottom: 8px;
   border: 1px solid #ffffff;
   text-align: center;
@@ -831,7 +831,7 @@ section.signupSec{
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-right: 10px;
   color: #000;
 }
@@ -914,13 +914,13 @@ body.userauth .main-content{
   padding: 10px;
   background: #fff;
   margin: 20px 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   flex-direction: column;
 }
 .profilecard img {
   max-width: 55px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-right: 15px;
 }
 
@@ -964,13 +964,13 @@ ul.servFiltr::-webkit-scrollbar {
   background: #1a3862;
   color: #fff;
   padding: 5px;
-  border-radius: 5px;
+  border-adius: 5px;
   margin-right: 5px;
 }
 .statcard {
   background: #fff;
   border: 1px solid #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   margin: 10px 0;
   width: 100%;
   min-width: 165px;
@@ -990,7 +990,7 @@ form.ordformforsrc input {
   background: transparent;
   border: 1px solid #fff;
   padding: 20px 20px 20px 40px;
-  border-radius: 10px !important;
+  border-adius: 10px !important;
   color: #fff;
 }
 form.ordformforsrc {
@@ -1009,7 +1009,7 @@ form.ordformforsrc button.input-wrapper__prepend span {
 }
 .select2-container--open .select2-dropdown--below {
   margin-top: 10px !important;
-  border-radius: 20px !important;
+  border-adius: 20px !important;
   overflow: hidden;
   background: #ffffff;
   padding: 0;
@@ -1163,7 +1163,7 @@ form.ordformforsrc button.input-wrapper__prepend span {
   background: #efefef;
   padding: 8px 10px;
   border: 1px solid #00000010;
-  border-radius: 10px;
+  border-adius: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1177,7 +1177,7 @@ div.gridcol2 {
   background: #efefef;
   padding: 12px;
   border: 1px solid #00000010;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .griddesc {
   display: grid;
@@ -1201,14 +1201,14 @@ div.gridcol2 {
   border: 0;
   border-bottom: 1px solid #00000020;
   padding: 8px 15px;
-  border-radius: 0;
+  border-adius: 0;
   color: #595959;
   margin-left: auto;
   display: block;
 }
 .dropdown.statdd > button {
   border: 1px solid #00000020;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .dropdown.statdd ul.dropdown-menu li button {
   width: 100%;
@@ -1218,7 +1218,7 @@ div.gridcol2 {
 }
 .dropdown.statdd.open ul.dropdown-menu {
   padding: 0;
-  border-radius: 10px;
+  border-adius: 10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1271,7 +1271,7 @@ div.gridcol2 {
   align-items: center;
   justify-content: center;
   color: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .wellhdr .headrwell {
   display: flex;
@@ -1287,7 +1287,7 @@ div.gridcol2 {
 }
 
 .select2-container--default.select2-container--open.select2-container--below .select2-selection--single, .select2-container--default.select2-container--open.select2-container--below .select2-selection--multiple{
-  border-radius: 10px !important;
+  border-adius: 10px !important;
 }
 .statsdesc div div:last-child {
   text-align: right;
@@ -1295,7 +1295,7 @@ div.gridcol2 {
 small.help-block.min-max {
   background: #033c73;
   padding: 4px;
-  border-radius: 10px;
+  border-adius: 10px;
   text-align: center;
   color: #fff;
 }
@@ -1335,7 +1335,7 @@ small.help-block.min-max {
   width: 60px;
   height: 60px;
   stroke-width: 4px;
-  border-radius: 50%;
+  border-adius: 50%;
   display: block;
   stroke: #ff0000;
   stroke-miterlimit: 10;
@@ -1420,7 +1420,7 @@ span.OrdBadge {
   position: relative;
   margin: auto;
   min-width: 200px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-bottom: 20px;
 }
 .ordpopbody p {
@@ -1431,7 +1431,7 @@ div.ordpopup .modal-footer{
 }
 .fixedtopalert.alert.alert-dismissible {
   padding: 6px 30px;
-  border-radius: 0;
+  border-adius: 0;
   border: 0;
   margin: 0;
   background: #db7635;
@@ -1459,7 +1459,7 @@ div.ordpopup .modal-footer{
   z-index: 10000;
 }
 .modal-content {
-  border-radius: 10px;
+  border-adius: 10px;
   overflow: hidden;
   box-shadow: none;
   border: none;
@@ -1496,7 +1496,7 @@ span.OrdBadge.sucessbadid {
 .checkmark {
   width: 56px;
   height: 56px;
-  border-radius: 50%;
+  border-adius: 50%;
   display: block;
   stroke-width: 2;
   stroke: #fff;
@@ -1536,7 +1536,7 @@ span.OrdBadge.sucessbadid {
   justify-content: flex-start;
   margin: 0 0 15px 0;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   background: #e1efff;
   border: 1px solid #d0e6ff;
   cursor: pointer;
@@ -1544,7 +1544,7 @@ span.OrdBadge.sucessbadid {
 .divstattwo i {
   height: 65px;
   width: 65px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-right: 10px;
   color: #e1efff;
   background: #033c73;
@@ -1600,7 +1600,7 @@ ul.servFiltr.servFilterservpage {
 .servgridchilds {
   background: #fff;
   padding: 15px;
-  border-radius: 10px;
+  border-adius: 10px;
   font-size: 13px;
   font-weight: 500;
   line-height: 1.3;
@@ -1624,7 +1624,7 @@ ul.servFiltr.servFilterservpage {
   align-items: center;
   justify-content: center;
   color: #fff;
-  border-radius: 8px;
+  border-adius: 8px;
   font-size: 10px;
 }
 .serv-min i, .serv-max i, .avg-time i {
@@ -1635,7 +1635,7 @@ ul.servFiltr.servFilterservpage {
   width: 100%;
   background: linear-gradient(45deg, #00000010, transparent);
   padding: 8px 12px;
-  border-radius: 6px;
+  border-adius: 6px;
 }
 .serv-min b, .serv-max b, .avg-time b {
   color: #000;
@@ -1661,7 +1661,7 @@ a.btnbuyserv {
   text-align: center;
   border: 1px solid #033c73;
   padding: 5px 10px;
-  border-radius: 6px;
+  border-adius: 6px;
   color: #033c73;
   text-decoration: none;
   transition: all 0.5s ease;
@@ -1672,7 +1672,7 @@ span.servicerate:after {
   height: 15px;
   width: 15px;
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   position: absolute;
   right: -10px;
   top: 5px;
@@ -1683,7 +1683,7 @@ span.servicerate:before {
   height: 15px;
   width: 15px;
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   position: absolute;
   left: -10px;
   top: 5px;
@@ -1692,7 +1692,7 @@ span.servicerate {
   width: 100%;
   background: #033c73;
   padding: 5px 10px;
-  border-radius: 6px;
+  border-adius: 6px;
   color: #fff;
   text-align: center;
   position: relative;
@@ -1705,7 +1705,7 @@ span.servicerate {
   background: #1a3862;
   padding: 10px;
   text-align: center;
-  border-radius: 10px;
+  border-adius: 10px;
   color: #fff;
 }
 
@@ -1713,7 +1713,7 @@ span.servicerate {
 background: transparent;
 border: 1px solid #fff;
 padding: 20px;
-border-radius: 10px !important;
+border-adius: 10px !important;
 color: #fff;
 margin: 25px 0;
 }
@@ -1759,7 +1759,7 @@ ul.nav.nav-pills.catfiltrserv ul.dropdown-menu li a {
   color: #fff;
   padding: 10px;
   display: block;
-  border-radius: 10px;
+  border-adius: 10px;
   transition: all 0.5s ease;
 }
 ul.nav.nav-pills.catfiltrserv ul.dropdown-menu {
@@ -1768,7 +1768,7 @@ ul.nav.nav-pills.catfiltrserv ul.dropdown-menu {
   width: 100%;
   background: #132b4d;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid #ffffff20;
 }
 ul.nav.nav-pills.catfiltrserv ul.dropdown-menu li a.active{
@@ -1782,7 +1782,7 @@ ul.nav.nav-pills.catfiltrserv ul.dropdown-menu li a.active{
   align-items: center;
   justify-content: center;
   background: #1a3862;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid #00000010;
   color: #fff;
 }
@@ -1827,7 +1827,7 @@ ul.paymethradios li.payment-option a {
   align-items: center;
   background: #fff;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   text-decoration: none;
   transition: all 0.5s ease;
 }
@@ -1850,7 +1850,7 @@ ul.paymethradios li.payment-option a .option-header span.radio {
   width: 15px;
   background: transparent;
   border: 2px solid #033c73;
-  border-radius: 10px;
+  border-adius: 10px;
   margin: 0;
   margin-right: 10px;
 }
@@ -1870,7 +1870,7 @@ ul.paymethradios li.payment-option a .payment-icons img {
   background: #efefef;
   margin-bottom: -1px;
   padding: 8px 10px;
-  border-radius: 10px 10px 0 0;
+  border-adius: 10px 10px 0 0;
   display: block;
   transition: all 0.5s ease;
 }
@@ -1902,7 +1902,7 @@ ul.paymethradios {
 .payment-group button {
   width: 100%;
   background: #ffffff;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 900;
   display: flex;
   justify-content: space-between;
@@ -1946,14 +1946,14 @@ h4.paymentHeading i {
   align-items: center;
   justify-content: center;
   color: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-right: 10px;
 }
 
 ul.nav.nav-pills {
   background: #ffffff;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   display: flex;
   gap: 6px;
   flex-wrap: wrap;
@@ -1963,7 +1963,7 @@ ul.nav.nav-pills {
   gap: 10px;
   align-items: center;
   justify-content: center;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 12px 20px;
   border: 1px solid;
   transition: all 0.5s ease;
@@ -1995,7 +1995,7 @@ ul.nav.nav-pills {
   background-size: 110%;
   background-position: center;
   border: 1px solid #73a83950;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   margin-bottom: 0;
 }
@@ -2041,7 +2041,7 @@ ul.nav.nav-pills {
   background: #1a3862;
   left: -20px;
   top: 0;
-  border-radius: 0 10px 10px 0;
+  border-adius: 0 10px 10px 0;
   transition: all 0.5s ease;
 }
 .sidebar ul li.active a, .sidebar ul li a:hover {
@@ -2063,7 +2063,7 @@ p.menuheading {
   border: 1px solid #00000010;
   background: #e5f9d0;
   padding: 15px;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 500;
   justify-content: space-between;
   align-items: flex-start;
@@ -2072,7 +2072,7 @@ p.menuheading {
   background: green;
   color: #fff;
   padding: 2px 10px;
-  border-radius: 8px;
+  border-adius: 8px;
   font-size: 12px;
 }
 .boxamount[class*="-"] {
@@ -2100,7 +2100,7 @@ p.menuheading {
     rgba(0, 0, 0, 0.09) 0px 8px 4px, 
     rgba(0, 0, 0, 0.09) 0px 16px 8px, 
     rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 600;
   color: #fff !important;
 }
@@ -2116,7 +2116,7 @@ p.menuheading {
     rgba(0, 0, 0, 0.09) 0px 8px 4px, 
     rgba(0, 0, 0, 0.09) 0px 16px 8px, 
     rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 600;
   color: #fff !important;
 }
@@ -2138,7 +2138,7 @@ p.menuheading {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  border-radius: 8px;
+  border-adius: 8px;
   text-decoration: none;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }
@@ -2160,7 +2160,7 @@ p.menuheading {
   position: absolute;
   top: 25%;
   right: -40px;
-  border-radius: 50%;
+  border-adius: 50%;
   z-index: -1;
   filter: blur(100px);
   opacity: 0.2;
@@ -2204,7 +2204,7 @@ p.menuheading {
   border: 1px solid #00000010;
   background: #00000010;
   padding: 15px;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 500;
   justify-content: space-between;
   align-items: flex-start;
@@ -2214,7 +2214,7 @@ p.menuheading {
   background: #2fa4e7;
   padding: 2px 10px;
   color: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   font-size: 12px;
 }
 .profileflecard {
@@ -2227,7 +2227,7 @@ p.menuheading {
   margin-bottom: 0;
   margin-top: -35px;
   max-width: 85px;
-  border-radius: 50px;
+  border-adius: 50px;
   border: 8px solid #fff;
 }
 .chatdetstat {
@@ -2237,7 +2237,7 @@ p.menuheading {
   margin-bottom: 10px;
   background: #fff;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
 }
 .chatdetstat i {
@@ -2245,7 +2245,7 @@ p.menuheading {
   color: #fff;
   height: 40px;
   width: 40px;
-  border-radius: 10px;
+  border-adius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2261,7 +2261,7 @@ p.menuheading {
 .notechatdet {
   background: #fff;
   padding: 10px 15px;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   margin: 10px 0;
 }
@@ -2277,13 +2277,13 @@ p.menuheading {
   margin-bottom: 10px;
   font-size: 12px;
   padding: 2px 10px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 
 .chat-container {
   margin: 0 auto;
   padding: 20px;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   background-size: contain;
   background-color: #ffffff90;
@@ -2293,7 +2293,7 @@ p.menuheading {
 .chat-bubble {
   padding: 10px 20px;
   margin-bottom: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   position: relative;
 }
 .chat-bubble:after {
@@ -2351,7 +2351,7 @@ p.menuheading {
 }
 img.imgtckt {
   max-width: 300px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin: 0 -10px;
 }
 .message {
@@ -2363,9 +2363,9 @@ img.imgtckt {
   display: flex;
   align-items: center;
   background-color: #a9d5ff;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 10px;
-  border-radius: 0;
+  border-adius: 0;
   margin: -5px;
   margin-top: 15px;
 }
@@ -2375,7 +2375,7 @@ img.imgtckt {
   resize: none;
   outline: none;
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 14px;
   margin: 0 10px 0 0;
 }
@@ -2398,7 +2398,7 @@ img.imgtckt {
 
 .ordertopfeats {
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   overflow: hidden;
   margin-bottom: 10px;
 }
@@ -2411,7 +2411,7 @@ img.imgtckt {
   display: block;
 }
 .ordertopfeats .search form input {
-  border-radius: 0;
+  border-adius: 0;
   background: transparent;
   border: 0;
   border-bottom: 1px solid #00000010;
@@ -2436,7 +2436,7 @@ td.idtd {
 }
 td.idtd div {
   border: 1px solid #2fa4e7;
-  border-radius: 10px;
+  border-adius: 10px;
   text-align: center;
   padding: 2px 10px;
   margin-bottom: 5px;
@@ -2479,13 +2479,13 @@ th {
 /* New Codes */
 .headernav.navbar-fixed-top {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
-  border-radius: 10px;
+  border-adius: 10px;
   z-index: 9956;
   margin: 10px;
 }
 .sidebar {
   margin: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   margin-top: 100px;
 }
@@ -2509,14 +2509,14 @@ body.userauth .main-content {
 
 .order-actions a, .order-actions button {
   border: 1px solid #2fa4e721;
-  border-radius: 8px;
+  border-adius: 8px;
   padding: 5px 10px;
   background: #ebf8ff;
   color: #178acc;
 }
 .table-responsive {
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
 }
 td.selectord {
@@ -2541,7 +2541,7 @@ body.userauth span.checkmark {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 10px;
   border: 2px solid #ffffff10 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #1e467e 0%, #0e1f3910 100%), #162b51 !important;
@@ -2555,7 +2555,7 @@ body.userauth span.checkmark {
   width: 25px;
   background: #fff;
   margin: 2px 0;
-  border-radius: 10px;
+  border-adius: 10px;
   position: relative;
   box-shadow: rgb(0 0 0) 0px 3px 8px;
   transition: all 0.5s ease-in-out;
@@ -2617,7 +2617,7 @@ a.cnclrsn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border-radius: 10px;
+  border-adius: 10px;
   text-decoration: none;
   cursor: pointer;
 }
@@ -2683,18 +2683,18 @@ a.questbtn.subquest {
 }
 img.profilePicture {
   max-width: 100px;
-  border-radius: 40px;
+  border-adius: 40px;
 }
 .dropdown.profiledd img.profilePicture {
   max-width: 45px;
 }
 .dropdown.profiledd a.dropdown-toggle.threeddarkblue {
-  border-radius: 30px;
+  border-adius: 30px;
 }
 
 .dropdown.profiledd ul.dropdown-menu li a {
   padding: 5px 10px;
-  border-radius: 8px;
+  border-adius: 8px;
   margin: 2px 0;
   transition: all 0.5s ease;
 }
@@ -2702,7 +2702,7 @@ img.profilePicture {
   right: 0;
   left: auto;
   top: 55px;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 5px;
   background: #e1efff;
 }
@@ -2724,7 +2724,7 @@ button.servcpybtn {
   align-items: center;
   justify-content: center;
   color: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   font-size: 12px;
   margin-left: 5px;
 }
@@ -2734,7 +2734,7 @@ button.servcpybtn {
   padding: 25px 25px 0 25px;
   display: flex;
   justify-content: center;
-  border-radius: 10px;
+  border-adius: 10px;
   background-size: cover;
   background-position: center;
   flex-direction: column;
@@ -2761,7 +2761,7 @@ p.usernameprof {
 .profilecardacc {
   background: #fff;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -2779,7 +2779,7 @@ label.custom-file-upload {
   border: 2px solid #fff;
   width: 25px;
   height: 25px;
-  border-radius: 10px;
+  border-adius: 10px;
   align-items: center;
   justify-content: center;
   font-size: 10px;
@@ -2825,7 +2825,7 @@ footer {
   backdrop-filter: blur(30px);
   border: 1px solid #ffffff10;
   margin-right: 5px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-top: 20px;
 }
 a.footer-brand img {
@@ -2850,7 +2850,7 @@ p.footerp {
 }
 .headernavbottom {
   margin: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .servordlabl {
   display: flex;
@@ -2878,7 +2878,7 @@ p.footerp {
   align-items: flex-start;
   gap: 5px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
-  border-radius: 0 10px 10px 0;
+  border-adius: 0 10px 10px 0;
 }
 .breadcrumbhead p {
   margin: 0;
@@ -2941,7 +2941,7 @@ ul.nav.nav-pills.catfiltrserv {
   gap: 7px;
   background: #ffffff30;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid #ffffff10;
 }
 .catcatservhead {
@@ -2949,7 +2949,7 @@ ul.nav.nav-pills.catfiltrserv {
   background: #1a3862;
   padding: 10px;
   text-align: center;
-  border-radius: 10px;
+  border-adius: 10px;
   color: #fff;
 }
 
@@ -2991,7 +2991,7 @@ ul.nav.nav-pills.catfiltrserv {
   padding: 4px 10px;
   display: inline-block;
   border: 1px solid #ffffff10;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-bottom: 5px;
 }
 .totaluser {
@@ -3002,7 +3002,7 @@ ul.nav.nav-pills.catfiltrserv {
 }
 .totaluser .avatar img {
   max-width: 40px;
-  border-radius: 30px;
+  border-adius: 30px;
   border: 1px solid #fff;
   margin-left: -20px;
 }
@@ -3031,12 +3031,12 @@ ul.nav.nav-pills.catfiltrserv {
 select.goog-te-combo {
   width: 100%;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   font-family: 'DM Sans',sans-serif;
   font-weight: 500;
 }
 .iframupdts {
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 0;
   width: 100%;
   height: 950px;
@@ -3047,7 +3047,7 @@ nav.navbar.guestnav a.navbar-brand img {
 }
 span.subtop i {
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   display: inline-flex;
   height: 20px;
   width: 20px;
@@ -3065,7 +3065,7 @@ span.subtop i {
     margin: 10px;
     left: 0;
     top: 80px;
-    border-radius: 10px;
+    border-adius: 10px;
     border: 0;
     padding: 10px 30px;
   }
@@ -3135,7 +3135,7 @@ a.text-warning:focus {
 span.idupdt {
   border: 1px solid #00000020;
   padding: 2px 10px;
-  border-radius: 20px;
+  border-adius: 20px;
   white-space: nowrap;
   margin-right: 10px;
 }
@@ -3168,7 +3168,7 @@ h3.pricechildpanel {
   position: relative;
   padding: 10px 20px;
   border: 1px solid #00000010;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .width-100 {
   width: 100%;
@@ -3205,7 +3205,7 @@ ul.nsul li {
   color: #000;
   background: #ffffff;
   padding: 12px;
-  border-radius: 10px;
+  border-adius: 10px;
   justify-content: space-between;
   align-items: center;
 }
@@ -3262,7 +3262,7 @@ button.btn.btn-primary.btncopyreflink {
 .card.affcard {
   padding: 15px;
   border: 1px solid #00000020;
-  border-radius: 10px;
+  border-adius: 10px;
   margin: 5px 0;
 }
 .card.affcard h2 {
@@ -3291,7 +3291,7 @@ button.btn.btn-primary.btncopyreflink {
 .widget-icon {
   border: 1px solid rgba(82, 90, 102, 0.40);
   background: unset;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid rgba(82, 90, 102, .3);
   background: linear-gradient(148deg, #ffffff 5.99%, #f6f6f6 54.06%);
   padding: 14px;
@@ -3332,7 +3332,7 @@ button.btn.btn-primary.btncopyreflink {
   align-items: center;
 }
 .panel.panel-default {
-  border-radius: 10px;
+  border-adius: 10px;
   overflow: hidden;
 }
 span.expandicator {
@@ -3342,7 +3342,7 @@ span.expandicator {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 20px;
+  border-adius: 20px;
   line-height: 1;
   height: 20px;
   width: 20px;
@@ -3359,7 +3359,7 @@ ul.curndropdown-menu li a span {
   background: #2fa4e7;
   font-size: 12px;
   padding: 2px 10px;
-  border-radius: 6px;
+  border-adius: 6px;
   color: #fff;
   margin-left: 5px;
 }
@@ -3367,7 +3367,7 @@ ul.curndropdown-menu li a {
   padding: 5px 5px 5px 10px;
   color: #000;
   border: 1px solid #000;
-  border-radius: 10px;
+  border-adius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -3398,7 +3398,7 @@ h2.headingstat {
 span.tags {
   background: #ffffff30;
   padding: 15px 35px;
-  border-radius: 10px;
+  border-adius: 10px;
   backdrop-filter: blur(30px);
   border: 2px solid #ffffff20;
   box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
@@ -3471,7 +3471,7 @@ ul.nav.nav-pills.faqpills {
 .faqcard {
   background: #fff;
   padding: 20px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin: 10px;
   border: 1px solid #00000010;
 }
@@ -3490,12 +3490,12 @@ ul.nav.nav-pills.faqpills {
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   color: #fff;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 span.faqbadge {
   background: #00000010;
   padding: 5px 15px;
-  border-radius: 20px;
+  border-adius: 20px;
   border: 1px solid #00000010;
   font-size: 12px;
   font-weight: 500;
@@ -3537,14 +3537,14 @@ section.thirdSec {
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   background-size: 100% 100%;
   color: #fff;
-  border-radius: 20px;
+  border-adius: 20px;
   border: 1px solid #ffffff20;
   overflow: hidden;
   margin: 10px;
 }
 
 .gridcolto {
-  border-radius: 20px;
+  border-adius: 20px;
   border: 1px solid #ffffff20;
   overflow: hidden;
   margin: 10px;
@@ -3606,7 +3606,7 @@ section.thirdSec {
 }
 .bspcard img {
   padding: 0;
-  border-radius: 10px;
+  border-adius: 10px;
   backdrop-filter: blur(30px);
   border: 2px solid #ffffff20;
   transition: all 0.5s ease-in-out;
@@ -3620,7 +3620,7 @@ section.thirdSec {
   background: #efefef;
   color: #595959;
   padding: 2px 10px;
-  border-radius: 19px;
+  border-adius: 19px;
   border: 1px solid #00000010;
 }
 .bspcard h3 {
@@ -3635,7 +3635,7 @@ section.thirdSec {
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   color: #fff;
   padding: 5px 10px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 
 
@@ -3661,7 +3661,7 @@ section.thirdSec {
   justify-content: space-between;
   background: #fff;
   padding: 15px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-bottom: 10px;
 }
 .othersfeat h4 {
@@ -3694,7 +3694,7 @@ section.thirdSec {
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   color: #fff;
   padding: 14px;
-  border-radius: 10px;
+  border-adius: 10px;
   height: 50px;
   width: 50px;
   display: flex;
@@ -3707,7 +3707,7 @@ section.thirdSec {
   box-shadow: 0px 1.18245px 2.3649px 0px #091a39, 0px 0px 0px 1.18245px #233b6a, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   color: #fff;
   padding: 14px;
-  border-radius: 10px;
+  border-adius: 10px;
   height: 50px;
   width: 50px;
   display: flex;
@@ -3739,14 +3739,14 @@ section.sixthSec {
 /*.clientelelgs img {
 max-width: 170px;
 margin: 10px;
-border-radius: 4px;
+border-adius: 12px;
 padding: 10px;
 background: #fff;
 }*/
 .clientelelgs img {
   max-width: 170px;
   margin: 10px;
-  border-radius: 4px;
+  border-adius: 12px;
   padding: 10px;
   background: #fff;
   backdrop-filter: blur(30px);
@@ -3763,7 +3763,7 @@ background: #fff;
 }
 p.\31 000plus {
   padding: 5px 10px;
-  border-radius: 30px;
+  border-adius: 30px;
   margin: 10px;
   border: 2px solid #ffffff20 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
@@ -3795,7 +3795,7 @@ p.\31 000plus {
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   min-height: 50px;
   min-width: 50px;
-  border-radius: 10px;
+  border-adius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -3826,7 +3826,7 @@ span.redrec {
 button.btn.btn-faqscls {
   background: red;
   color: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 500;
   border: 2px solid #ffffff10;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #c34141 0%, #f2073b 100%), #e0345b;
@@ -3840,7 +3840,7 @@ button.btn.btn-success.btn-close-subscription {
   box-shadow: 0px 1.18245px 2.3649px 0px #339911, 0px 0px 0px 1.18245px #42b61c, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   color: #fff;
   margin-top: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .recsub {
   display: flex;
@@ -3885,7 +3885,7 @@ max-width: 250px;
 }
 button.btn.btn-nxt {
   color: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 2px solid #ffffff10;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #1e467e 0%, #0e1f3910 100%), #162b51;
   box-shadow: 0px 1.18245px 2.3649px 0px #091a39, 0px 0px 0px 1.18245px #233b6a, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px;
@@ -3901,14 +3901,14 @@ button.btn.btn-nxt {
   min-width: 50px;
   align-items: center;
   justify-content: center;
-  border-radius: 10px;
+  border-adius: 10px;
   color: #fff;
   margin-right: -8px;
 }
 .dropdown.funddd ul.dropdown-menu li a {
   background: #00000010;
   margin: 6px 10px;
-  border-radius: 30px;
+  border-adius: 30px;
   border: 1px solid #00000010;
   display: flex;
   justify-content: space-between;
@@ -3918,7 +3918,7 @@ button.btn.btn-nxt {
   width: 100%;
   margin-top: 10px;
   max-height: 300px;
-  border-radius: 10px;
+  border-adius: 10px;
   overflow: auto;
 }
 .dropdown.funddd ul.dropdown-menu li a:hover {
@@ -3940,7 +3940,7 @@ button.btn.btn-nxt {
 }
 .panellistcard {
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-bottom: 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
 }
@@ -3976,7 +3976,7 @@ span.expiryreminder i, span.expiryremindersuccess i {
   text-align: center;
   color: #fff;
   padding: 8px;
-  border-radius: 10px;
+  border-adius: 10px;
   width: 100%;
   text-decoration: none;
 }
@@ -4008,7 +4008,7 @@ section.seventhSec {
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   color: #fff;
   padding: 10px;
-  border-radius: 20px;
+  border-adius: 20px;
   margin: 10px 0;
   margin-right: 70px;
 }
@@ -4016,7 +4016,7 @@ section.seventhSec {
   background: #fff;
   color: #000;
   padding: 20px;
-  border-radius: 20px 20px 20px 20px;
+  border-adius: 20px 20px 20px 20px;
   margin-right: -70px;
   margin-left: 70px;
   box-shadow: 2px 2px 80px -25px #00000050;
@@ -4053,7 +4053,7 @@ span.stepno small {
   border: 2px solid #ffffff20 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 600;
   color: #fff !important;
   padding: 2px 10px;
@@ -4077,7 +4077,7 @@ span.stepno small {
   background: #00000010;
   margin: 10px 0;
   padding: 5px 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid #00000010;
 }
 
@@ -4096,7 +4096,7 @@ section.dashcards .card {
   position: relative;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   border: 1px solid #fff;
-  border-radius: 4px;
+  border-adius: 12px;
 }
 section.dashcards .card h3 {
   margin: 0;
@@ -4122,7 +4122,7 @@ section.dashcards .card h3 {
   margin: 15px 0;
 }
 .card.profcarddash img.profilePicture {
-  border-radius: 55px;
+  border-adius: 55px;
   display: block;
   margin: 20px auto;
 }
@@ -4141,7 +4141,7 @@ section.dashcards .card h3 {
   background: red;
   padding: 2px 10px;
   color: #fff;
-  border-radius: 20px;
+  border-adius: 20px;
   font-size: 14px;
 }
 
@@ -4165,7 +4165,7 @@ section.dashcards .card h3 {
   background: red;
   display: inline-block;
   padding: 2px 14px;
-  border-radius: 30px;
+  border-adius: 30px;
   margin-left: 10px;
 }
 
@@ -4180,7 +4180,7 @@ tr.dtcol{
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   background-size: 100% 100%;
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 600;
   color: #fff !important;
   padding: 12px;
@@ -4193,7 +4193,7 @@ tr.dtcol{
 .card-text {
   padding: 15px;
   border: 1px solid #00000010;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-top: 10px;
 }
 section.dashcards .card i{
@@ -4248,7 +4248,7 @@ p.headingp:after {
   background: #2fa4e7;
   margin-left: 14px;
   margin-top: -2px;
-  border-radius: 20px;
+  border-adius: 20px;
 }
 p.headingp {
   margin: 0;
@@ -4271,13 +4271,13 @@ p.headingp {
 .stepsforcp {
   background: #fff;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   max-width: 250px;
 }
 .stepsforcp img {
   display: block;
   width: 100%;
-  border-radius: 10px;
+  border-adius: 10px;
   margin: auto;
   margin-bottom: 10px;
 }
@@ -4298,14 +4298,14 @@ p.headingp {
 
 .stepcardmo {
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   padding: 15px;
   margin-top: 30px;
 }
 .stepcardmo .steap {
   height: 65px;
   width: 65px;
-  border-radius: 10px;
+  border-adius: 10px;
   margin-bottom: 10px;
   color: #e1efff;
   background: #033c73;
@@ -4331,18 +4331,18 @@ p.headingp {
   line-height: 1.3;
   border: 1px solid #00000010;
   padding: 14px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 
 .testicard {
   padding: 20px;
   background: #fff;
   margin: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .tstimprof img {
   max-width: 50px;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 .tstimprof {
   display: flex;
@@ -4367,7 +4367,7 @@ section.eightSec {
 
 .cta-section {
   padding: 40px;
-  border-radius: 10px;
+  border-adius: 10px;
   text-align: center;
   max-width: 800px;
   margin: auto;
@@ -4387,7 +4387,7 @@ section.eightSec {
 }
 .paymetnlogs img {
   max-height: 60px;
-  border-radius: 10px;
+  border-adius: 10px;
   box-shadow: 0px 1.18245px 2.3649px 0px #ffffff, 0px 0px 0px 1.18245px #ffffff, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
   background: #fff;
 }
@@ -4422,14 +4422,14 @@ button.default-btn.next-step {
   color: #fff;
   padding: 10px;
   border: 0;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 button.default-btn.prev-step {
   background: red;
   color: #fff;
   padding: 10px;
   border: 0;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 ul.list-inline.stepulwiz {
   display: flex;
@@ -4450,12 +4450,12 @@ button.finish-step {
   color: #fff;
   padding: 10px;
   border: 0;
-  border-radius: 10px;
+  border-adius: 10px;
 }
 
 .cardfcp {
   background: #fff;
-  border-radius: 10px;
+  border-adius: 10px;
   border: 1px solid #00000010;
   margin: 20px 0;
   overflow: hidden;
@@ -4478,7 +4478,7 @@ button.finish-step {
 /* Blog */
 .blogtopcard {
   min-height: 70vh;
-  border-radius: 20px;
+  border-adius: 20px;
   display: flex;
   justify-content: flex-start;
   align-items: flex-end;
@@ -4494,7 +4494,7 @@ button.finish-step {
   background: #ffffff20;
   width: 100%;
   padding: 20px;
-  border-radius: 20px;
+  border-adius: 20px;
   flex-direction: column;
   gap: 15px;
   backdrop-filter: blur(600px);
@@ -4528,7 +4528,7 @@ button.finish-step {
 }
 .profwrite img {
   max-width: 55px;
-  border-radius: 40px;
+  border-adius: 40px;
   margin-right: 10px;
 }
 .postgrids {
@@ -4538,7 +4538,7 @@ button.finish-step {
   margin: 20px 0;
 }
 .postgridchild img {
-  border-radius: 15px;
+  border-adius: 15px;
 }
 .postgridchild .profwrite h4 {
   color: #000;
@@ -4549,13 +4549,13 @@ button.finish-step {
   font-size: 12px;
 }
 .postgridchild .profwrite img {
-  border-radius: 50px;
+  border-adius: 50px;
   max-width: 40px;
 }
 .postgridchild {
   position: relative;
   overflow: hidden;
-  border-radius: 15px;
+  border-adius: 15px;
   cursor: pointer;
 }
 .postgridchild:before {
@@ -4576,7 +4576,7 @@ button.finish-step {
   left: 10px;
   background: #ffffff50;
   padding: 5px;
-  border-radius: 50px;
+  border-adius: 50px;
   padding-right: 20px;
   backdrop-filter: blur(600px);
   border: 1px solid #ffffff20;
@@ -4611,7 +4611,7 @@ footer.text-center.guestfooter {
 .footerbox {
   background: #fff;
   padding: 20px;
-  border-radius: 20px;
+  border-adius: 20px;
   margin: 10px;
 }
 a.footer-brand {
@@ -4634,7 +4634,7 @@ ul.socialulftr li a {
   box-shadow: 0px 1.18245px 2.3649px 0px #091a39, 0px 0px 0px 1.18245px #233b6a, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
   height: 50px;
   width: 50px;
-  border-radius: 50px;
+  border-adius: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -4671,7 +4671,7 @@ section.ninthSec {
   background: #61bae4;
   padding: 3px 10px;
   color: #fff;
-  border-radius: 30px;
+  border-adius: 30px;
   border: 1px solid #ffffff;
   font-size: 13px;
 }
@@ -4715,7 +4715,7 @@ section.ninthSec {
   justify-content: space-between;
   background: #ffffff;
   margin-bottom: 20px;
-  border-radius: 20px;
+  border-adius: 20px;
   overflow: hidden;
 }
 .contpghdr {
@@ -4789,7 +4789,7 @@ a.dropdown-toggle.threeddarkblue {
 }
 .wellhdr .headrwell p a {
   display: inline-flex;
-  border-radius: 50px !important;
+  border-adius: 50px !important;
   overflow: hidden;
 }
 
@@ -4812,7 +4812,7 @@ a.dropdown-toggle.threeddarkblue {
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   background-size: 100% 100%;
   box-shadow: 0px 1.18245px 2.3649px 0px #2b6585, 0px 0px 0px 1.18245px #529bcb, rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px !important;
-  border-radius: 10px;
+  border-adius: 10px;
   font-weight: 600;
   color: #fff !important;
 }
@@ -4858,7 +4858,7 @@ section.fifthSec.darksec {
   background: #ffffff20;
   padding: 15px;
   border: 1px solid #ffffff10;
-  border-radius: 20px;
+  border-adius: 20px;
   align-items: center;
 }
 .statistics-box i {
@@ -4876,7 +4876,7 @@ section.fifthSec.darksec {
   background: #ffffff40;
   margin: 10px;
   padding: 20px;
-  border-radius: 4px;
+  border-adius: 12px;
   border: 1px solid #ffffff20;
   color: #fff;
 }
@@ -4892,7 +4892,7 @@ a.detailsord {
   background: #2fa4e7;
   color: #fff;
   padding: 2px 6px;
-  border-radius: 15px;
+  border-adius: 15px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -4906,7 +4906,7 @@ span.highlightbadge {
   color: #fff;
   padding: 2px 4px;
   padding-left: 2px;
-  border-radius: 10px;
+  border-adius: 10px;
   position: relative;
   top: -10px;
   display: inline-block;
@@ -4918,7 +4918,7 @@ span.highlightbadge {
   color: #fff;
   padding: 2px 4px;
   padding-left: 2px;
-  border-radius: 10px;
+  border-adius: 10px;
   position: relative;
   top: -10px;
   margin-left: 10px;
@@ -4947,7 +4947,7 @@ div#ajaxUpdt {
   background-size: cover;
   background-position: center;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   max-height: 1050px;
   overflow: auto;
 }
@@ -4958,7 +4958,7 @@ div#ajaxUpdt .well {
   padding: 0;
 }
 div#ajaxUpdt li.search form .input-group input {
-  border-radius: 10px;
+  border-adius: 10px;
 }
 div#ajaxUpdt li.search form {
   width: 100%;
@@ -4976,7 +4976,7 @@ div#ajaxUpdt {
   background-size: cover;
   background-position: center;
   padding: 10px;
-  border-radius: 10px;
+  border-adius: 10px;
   max-height: 1050px;
   overflow: auto;
 }
@@ -4993,13 +4993,13 @@ a.updtbtn {
   text-decoration: none !important;
   line-height: 1.2;
   padding: 5px 10px;
-  border-radius: 25px;
+  border-adius: 25px;
 }
 button.close.ord-close {
   background: #fff;
   height: 36px;
   width: 36px;
-  border-radius: 10px;
+  border-adius: 10px;
   font-size: 30px;
   margin-left: auto;
 }
