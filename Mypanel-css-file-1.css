@@ -76,7 +76,7 @@ body.darkmode.userauth footer {
 }
 body.darkmode.userauth .payment-group button {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -126,7 +126,7 @@ body.darkmode.userauth .wellhdr .headrwell i {
 }
 body.darkmode.userauth .chat-container, body.darkmode.userauth .notechatdet {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -139,7 +139,7 @@ body.userauth.darkmode .whatsapp-chat-box {
 }
 body.darkmode.userauth .chatdetstat {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -157,7 +157,7 @@ body.darkmode.userauth {
 body.darkmode.userauth .headernavbottom.headersignin {
   padding-bottom: 80px;
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -173,21 +173,21 @@ body.darkmode.userauth .statcard {
 }
 body.darkmode.userauth ul.nav.nav-pills {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
 }
 body.darkmode.userauth .well {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
 }
 body.darkmode.userauth .sidebar {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -197,7 +197,7 @@ body.darkmode.userauth .sidebar:after{
 }
 body.darkmode.userauth .divstattwo {
   color: #ffffff90;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -226,7 +226,7 @@ body.darkmode.userauth .table > tbody > tr.active > td {
 }
 body.darkmode.userauth .panel.panel-default {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -249,7 +249,7 @@ body.darkmode.userauth .note p {
 }
 body.userauth.darkmode ul.nsul {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -263,7 +263,7 @@ body.userauth.darkmode ul.ullistns li {
 }
 body.darkmode.userauth .cardfcp {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -288,7 +288,7 @@ body.userauth.darkmode .backchildsmh h3.pricechildpanel {
 }
 body.darkmode.userauth .modal-content {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -305,7 +305,7 @@ body.darkmode.userauth .dropdown-menu li a {
 }
 body.darkmode.userauth .profilecardacc {
   color: #fff;
-  border-radius: 2px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -315,7 +315,7 @@ body.darkmode.userauth p.usernameprof {
 }
 body.darkmode.userauth .dropdown.profiledd ul.dropdown-menu{
   color: #fff;
-  border-radius: 2px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -325,14 +325,14 @@ body.darkmode.userauth .form-msord small {
 }
 body.darkmode.userauth .stepcardmo{
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
 }
 body.darkmode.userauth .page-header-lgin {
   color: #fff;
-  border-radius: 12px;
+  border-radius: 4px;
   box-shadow: rgba(255, 255, 255, 0.2) 0 1px 1px 0 inset, 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.9) 0px 0px 0px 1px !important;
   background: linear-gradient(180deg, #404146 0%, #272729 100%) !important;
   border: none !important;
@@ -3739,14 +3739,14 @@ section.sixthSec {
 /*.clientelelgs img {
 max-width: 170px;
 margin: 10px;
-border-radius: 12px;
+border-radius: 4px;
 padding: 10px;
 background: #fff;
 }*/
 .clientelelgs img {
   max-width: 170px;
   margin: 10px;
-  border-radius: 12px;
+  border-radius: 4px;
   padding: 10px;
   background: #fff;
   backdrop-filter: blur(30px);
@@ -4096,7 +4096,7 @@ section.dashcards .card {
   position: relative;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   border: 1px solid #fff;
-  border-radius: 12px;
+  border-radius: 4px;
 }
 section.dashcards .card h3 {
   margin: 0;
@@ -4876,7 +4876,7 @@ section.fifthSec.darksec {
   background: #ffffff40;
   margin: 10px;
   padding: 20px;
-  border-radius: 12px;
+  border-radius: 4px;
   border: 1px solid #ffffff20;
   color: #fff;
 }
