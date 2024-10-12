@@ -796,7 +796,7 @@ section.signupSec{
   a.navbar-brand img{
     max-width: 150px !important;
   }
-  .headernav.threedblue.navbar-fixed-top {
+  .headernav.dropdown2.navbar-fixed-top {
     padding: 10px;
   }
   body.userauth .main-content {
@@ -2088,7 +2088,7 @@ p.menuheading {
 }
 
 
-.threedblue {
+.dropdown2 {
   border: 2px solid #ffffff20 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   background-size: 100% 100%;
@@ -2104,7 +2104,7 @@ p.menuheading {
   font-weight: 600;
   color: #fff !important;
 }
-.dropdown2{
+.threeddarkblue{
   border: 2px solid #ffffff10 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #1e467e 0%, #0e1f3910 100%), #162b51 !important;
   background-size: 100% 100%;
@@ -2587,7 +2587,7 @@ body.userauth span.checkmark {
     float: right;
     /*margin-right: 10px;*/
   }
-  .dropdown2.profiledd a.dropdown2-toggle.dropdown2 img {
+  .dropdown2.profiledd a.dropdown2-toggle.threeddarkblue img {
     max-width: 47px;
   }
   footer{
@@ -2688,7 +2688,7 @@ img.profilePicture {
 .dropdown2.profiledd img.profilePicture {
   max-width: 45px;
 }
-.dropdown2.profiledd a.dropdown2-toggle.dropdown2 {
+.dropdown2.profiledd a.dropdown2-toggle.threeddarkblue {
   border-radius: 30px;
 }
 
@@ -2795,22 +2795,22 @@ button.Indian.toggled {
   color: #000;
 }
 
-.chatheadr.dropdown2 span {
+.chatheadr.threeddarkblue span {
   font-size: 12px;
   margin: 0;
   color: #ffffff90;
   display: block;
 }
-.chatheadr.dropdown2 p {
+.chatheadr.threeddarkblue p {
   margin: 0;
   font-weight: 800;
   font-size: 16px;
 }
-.chatheadr.dropdown2 img {
+.chatheadr.threeddarkblue img {
   max-width: 40px;
   margin-right: 5px;
 }
-.chatheadr.dropdown2 {
+.chatheadr.threeddarkblue {
   display: flex;
   gap: 10px;
   padding: 12px;
@@ -4401,7 +4401,7 @@ section.eightSec {
   padding: 10px 0;
 }
 
-.cta-section a.btn.threedblue {
+.cta-section a.btn.dropdown2 {
   margin: 10px 0;
 }
 
@@ -4759,7 +4759,7 @@ span.bdghdr {
   display: inline-flex !important;
   margin-left: 0;
 }
-a.dropdown2-toggle.dropdown2 {
+a.dropdown2-toggle.threeddarkblue {
   margin-right: 0;
   margin-left: auto;
 }
@@ -4821,19 +4821,19 @@ section.statSec {
   margin-bottom: -150px;
   margin-top: 30px;
 }
-.cardstat.threedblue {
+.cardstat.dropdown2 {
   padding: 25px;
   display: block;
 }
 section.fifthSec.darksec {
   padding-top: 200px;
 }
-.cardstat.threedblue h2 {
+.cardstat.dropdown2 h2 {
   text-align: center;
   font-weight: 600;
   font-size: 40px;
 }
-.cardstat.threedblue p {
+.cardstat.dropdown2 p {
   font-weight: 300;
   text-align: center;
   max-width: 750px;
@@ -5811,7 +5811,7 @@ section.signupSec{
   a.navbar-brand img{
     max-width: 150px !important;
   }
-  .headernav.threedblue.navbar-fixed-top {
+  .headernav.dropdown2.navbar-fixed-top {
     padding: 10px;
   }
   body.userauth .main-content {
@@ -7103,7 +7103,7 @@ p.menuheading {
 }
 
 
-.threedblue {
+.dropdown2 {
   border: 2px solid #ffffff20 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #61bbe9 0%, #178acc61 100%), #47a4d8 !important;
   background-size: 100% 100%;
@@ -7119,7 +7119,7 @@ p.menuheading {
   font-weight: 600;
   color: #fff !important;
 }
-.dropdown2{
+.threeddarkblue{
   border: 2px solid #ffffff10 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #1e467e 0%, #0e1f3910 100%), #162b51 !important;
   background-size: 100% 100%;
@@ -7602,7 +7602,7 @@ body.userauth span.checkmark {
     float: right;
     /*margin-right: 10px;*/
   }
-  .dropdown2.profiledd a.dropdown2-toggle.dropdown2 img {
+  .dropdown2.profiledd a.dropdown2-toggle.threeddarkblue img {
     max-width: 47px;
   }
   footer{
@@ -7703,7 +7703,7 @@ img.profilePicture {
 .dropdown2.profiledd img.profilePicture {
   max-width: 45px;
 }
-.dropdown2.profiledd a.dropdown2-toggle.dropdown2 {
+.dropdown2.profiledd a.dropdown2-toggle.threeddarkblue {
   border-radius: 30px;
 }
 
@@ -7810,22 +7810,22 @@ button.Indian.toggled {
   color: #000;
 }
 
-.chatheadr.dropdown2 span {
+.chatheadr.threeddarkblue span {
   font-size: 12px;
   margin: 0;
   color: #ffffff90;
   display: block;
 }
-.chatheadr.dropdown2 p {
+.chatheadr.threeddarkblue p {
   margin: 0;
   font-weight: 800;
   font-size: 16px;
 }
-.chatheadr.dropdown2 img {
+.chatheadr.threeddarkblue img {
   max-width: 40px;
   margin-right: 5px;
 }
-.chatheadr.dropdown2 {
+.chatheadr.threeddarkblue {
   display: flex;
   gap: 10px;
   padding: 12px;
@@ -9416,7 +9416,7 @@ section.eightSec {
   padding: 10px 0;
 }
 
-.cta-section a.btn.threedblue {
+.cta-section a.btn.dropdown2 {
   margin: 10px 0;
 }
 
@@ -9774,7 +9774,7 @@ span.bdghdr {
   display: inline-flex !important;
   margin-left: 0;
 }
-a.dropdown2-toggle.dropdown2 {
+a.dropdown2-toggle.threeddarkblue {
   margin-right: 0;
   margin-left: auto;
 }
@@ -9836,19 +9836,19 @@ section.statSec {
   margin-bottom: -150px;
   margin-top: 30px;
 }
-.cardstat.threedblue {
+.cardstat.dropdown2 {
   padding: 25px;
   display: block;
 }
 section.fifthSec.darksec {
   padding-top: 200px;
 }
-.cardstat.threedblue h2 {
+.cardstat.dropdown2 h2 {
   text-align: center;
   font-weight: 600;
   font-size: 40px;
 }
-.cardstat.threedblue p {
+.cardstat.dropdown2 p {
   font-weight: 300;
   text-align: center;
   max-width: 750px;
