@@ -2104,7 +2104,7 @@ p.menuheading {
   font-weight: 600;
   color: #fff !important;
 }
-threeddarkblue{
+.dropdown2{
   border: 2px solid #ffffff10 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #1e467e 0%, #0e1f3910 100%), #162b51 !important;
   background-size: 100% 100%;
@@ -2587,7 +2587,7 @@ body.userauth span.checkmark {
     float: right;
     /*margin-right: 10px;*/
   }
-  .dropdown2.profiledd a.dropdown2-toggle.threeddarkblue img {
+  .dropdown2.profiledd a.dropdown2-toggle.dropdown2 img {
     max-width: 47px;
   }
   footer{
@@ -2688,7 +2688,7 @@ img.profilePicture {
 .dropdown2.profiledd img.profilePicture {
   max-width: 45px;
 }
-.dropdown2.profiledd a.dropdown2-toggle.threeddarkblue {
+.dropdown2.profiledd a.dropdown2-toggle.dropdown2 {
   border-radius: 30px;
 }
 
@@ -2795,22 +2795,22 @@ button.Indian.toggled {
   color: #000;
 }
 
-.chatheadr.threeddarkblue span {
+.chatheadr.dropdown2 span {
   font-size: 12px;
   margin: 0;
   color: #ffffff90;
   display: block;
 }
-.chatheadr.threeddarkblue p {
+.chatheadr.dropdown2 p {
   margin: 0;
   font-weight: 800;
   font-size: 16px;
 }
-.chatheadr.threeddarkblue img {
+.chatheadr.dropdown2 img {
   max-width: 40px;
   margin-right: 5px;
 }
-.chatheadr.threeddarkblue {
+.chatheadr.dropdown2 {
   display: flex;
   gap: 10px;
   padding: 12px;
@@ -4759,7 +4759,7 @@ span.bdghdr {
   display: inline-flex !important;
   margin-left: 0;
 }
-a.dropdown2-toggle.threeddarkblue {
+a.dropdown2-toggle.dropdown2 {
   margin-right: 0;
   margin-left: auto;
 }
@@ -7119,7 +7119,7 @@ p.menuheading {
   font-weight: 600;
   color: #fff !important;
 }
-threeddarkblue{
+.dropdown2{
   border: 2px solid #ffffff10 !important;
   background: radial-gradient(42.73% 42.73% at 50% 96.36%, #1e467e 0%, #0e1f3910 100%), #162b51 !important;
   background-size: 100% 100%;
@@ -7602,7 +7602,7 @@ body.userauth span.checkmark {
     float: right;
     /*margin-right: 10px;*/
   }
-  .dropdown2.profiledd a.dropdown2-toggle.threeddarkblue img {
+  .dropdown2.profiledd a.dropdown2-toggle.dropdown2 img {
     max-width: 47px;
   }
   footer{
@@ -7703,7 +7703,7 @@ img.profilePicture {
 .dropdown2.profiledd img.profilePicture {
   max-width: 45px;
 }
-.dropdown2.profiledd a.dropdown2-toggle.threeddarkblue {
+.dropdown2.profiledd a.dropdown2-toggle.dropdown2 {
   border-radius: 30px;
 }
 
@@ -7810,22 +7810,22 @@ button.Indian.toggled {
   color: #000;
 }
 
-.chatheadr.threeddarkblue span {
+.chatheadr.dropdown2 span {
   font-size: 12px;
   margin: 0;
   color: #ffffff90;
   display: block;
 }
-.chatheadr.threeddarkblue p {
+.chatheadr.dropdown2 p {
   margin: 0;
   font-weight: 800;
   font-size: 16px;
 }
-.chatheadr.threeddarkblue img {
+.chatheadr.dropdown2 img {
   max-width: 40px;
   margin-right: 5px;
 }
-.chatheadr.threeddarkblue {
+.chatheadr.dropdown2 {
   display: flex;
   gap: 10px;
   padding: 12px;
@@ -9774,7 +9774,7 @@ span.bdghdr {
   display: inline-flex !important;
   margin-left: 0;
 }
-a.dropdown2-toggle.threeddarkblue {
+a.dropdown2-toggle.dropdown2 {
   margin-right: 0;
   margin-left: auto;
 }
